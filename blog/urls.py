@@ -19,9 +19,9 @@ from core.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('gul1/',gul1),
-    path('gul2/',gul2),
-    path('gul3/',gul3),
-    path('gul4/',gul4),
+    path('kompyuter1/',kompyuter1),
+    path('kompyuter2/',kompyuter2),
+    path('kompyuter3/',kompyuter3),
+    
 
 ]

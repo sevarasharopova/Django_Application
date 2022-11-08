@@ -1,14 +1,13 @@
 from django.shortcuts import render
 from frontend import *
 
-def gul1(request):
-    return render(request,'atirgul.html')
+def kompyuter1(request):
+    return render(request,'acer.html')
 
-def gul2(request):
-    return render(request,'liliya.html')
+def kompyuter2(request):
+    return render(request,'hp.html')
 
-def gul3(request):
-    return render(request,'lola.html')
+def kompyuter3(request):
+    return render(request,'windows.html')
 
-def gul4(request):
-    return render(request,'moychechak.html')
+
